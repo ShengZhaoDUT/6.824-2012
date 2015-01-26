@@ -1,6 +1,10 @@
 #ifndef rpc_h
 #define rpc_h
 
+// zs add
+#include <unistd.h>
+// zs add end
+
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <list>
